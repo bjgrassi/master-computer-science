@@ -13,6 +13,7 @@
 - Change the path 'C:/Projetos/Assignment2-Part2-Braille/...' in the .py files to yours.
 
 Source 1: https://thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python 
+<br />
 Source 2: https://github.com/x4nth055/pythoncode-tutorials/tree/master/machine-learning/speech-recognition 
 
 ## Step 1: Speech to Text Conversion
