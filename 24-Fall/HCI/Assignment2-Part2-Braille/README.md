@@ -1,14 +1,26 @@
 # [How to Convert Speech to Text in Python](https://www.thepythoncode.com/article/using-Assignment2-Part2-Braille-to-convert-speech-to-text-python)
-To run this:
-- `pip3 install SpeechRecognition pydub` (windows)
-- `pip3 install -r requirements.txt`
+
+## To run this:
+- Import SpeechRecognition (Windows command)
+    ```
+    pip3 install SpeechRecognition pydub
+    ```
+
+- Import the requirements
+    ```
+    pip3 install -r requirements.txt
+    ```
+- Change the path 'C:/Projetos/Assignment2-Part2-Braille/...' in the .py files to yours.
+
 Source 1: https://thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python 
 Source 2: https://github.com/x4nth055/pythoncode-tutorials/tree/master/machine-learning/speech-recognition 
-- Change the path 'C:/Projetos/Assignment2-Part2-Braille/...' in the files to yours.
 
 ## Step 1: Speech to Text Conversion
-Import the library: `pip3 install pyaudio` (windows)
-Source: https://pypi.org/project/PyAudio/ 
+- Import the library pyaudio: (Windows command)
+    ```
+    pip3 install pyaudio
+    ```
+    Source: https://pypi.org/project/PyAudio/ 
 - To recognize the text from your microphone after talking 5 seconds:
     ```
     python speech_to_text.py 5
@@ -16,10 +28,16 @@ Source: https://pypi.org/project/PyAudio/
     This will record your talking in 5 seconds and then uploads the audio data to Google to get the desired output.
 
 ## Step 2: Text to Braille
-`python text_to_braille.py Speech-to-text.txt`
+- The command below will translate the .txt file to Braille
+    ```
+    python text_to_braille.py Speech-to-text.txt
+    ```
 
 ## Step 3: Speech to Braille
-`python speech_to_braille.py 5`
+- The command below will record your talking in 5 seconds and translate to Braille
+    ```
+    python speech_to_braille.py 5
+    ```
 
 ## Extra Step: Audio to Text
 - To recognize the text of an audio file named `16-122828-0002.wav`:
