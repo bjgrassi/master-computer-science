@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block body %}
+<main role="main">
+
+    <section class="jumbotron text-center">
+      <div class="container">
+        <h1 class="jumbotron-heading">Braille Tools</h1>
+        <p class="lead text-muted">Please use the tools provided below to convert your audio, image or text braille to english. The tools provides a limited albiet solid user experience to all people interested in Braille.</p>
+        <p>
+          <a href="/braille_image_to_text" class="btn btn-primary my-2">Image to Braille</a>
+          <a href="/speech_to_braille" class="btn btn-secondary my-2">Audio to Braille</a>
+        </p>
+      </div>
+    </section>
+
+    <div class="album py-5 bg-light">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="/static/images/image.jpg" alt="Image" style="height: 225px; width: 100%; display: block;" data-holder-rendered="true">
+              <div class="card-body">
+                <p class="card-text">You can upload an image to convert the braille text in that image to english text or dictate it using audio.</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <a href="/braille_image_to_text" class="btn btn-primary my-2">Image to Braille</a>
+                  <small class="text-muted">Image</small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="/static/images/speak.jpg" alt="Speech" style="height: 225px; width: 100%; display: block;" data-holder-rendered="true">
+              <div class="card-body">
+                <p class="card-text">You can speak into a microphone and convert that spoken english dictation to braille text.</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <a href="/speech_to_braille" class="btn btn-primary my-2">Audio to Braille</a>
+                  <small class="text-muted">Speech</small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="/static/images/text.jpg" alt="Text" style="height: 225px; width: 100%; display: block;" data-holder-rendered="true">
+              <div class="card-body">
+                <p class="card-text">Here you can type using your keyboard to convert any text to braille or convert copied braille text to english.</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <a href="/text_to_braille" class="btn btn-primary my-2">Text to Braille</a>
+                  </div>
+                  <small class="text-muted">Text</small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+{% endblock %}
