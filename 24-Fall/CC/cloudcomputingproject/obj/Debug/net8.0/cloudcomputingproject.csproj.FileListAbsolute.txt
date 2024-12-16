@@ -1,0 +1,17 @@
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\bin\Debug\net8.0\cloudcomputingproject.exe
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\bin\Debug\net8.0\cloudcomputingproject.deps.json
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\bin\Debug\net8.0\cloudcomputingproject.runtimeconfig.json
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\bin\Debug\net8.0\cloudcomputingproject.dll
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\bin\Debug\net8.0\cloudcomputingproject.pdb
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.AssemblyInfoInputs.cache
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.AssemblyInfo.cs
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.csproj.CoreCompileInputs.cache
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.dll
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\refint\cloudcomputingproject.dll
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.pdb
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.genruntimeconfig.cache
+c:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\ref\cloudcomputingproject.dll
+C:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\bin\Debug\net8.0\FLS.dll
+C:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcomputingproject.csproj.AssemblyReference.cache
+C:\Users\brugr\Documentos\MSC\CC\cloudcomputingproject\obj\Debug\net8.0\cloudcom.16596BAD.Up2Date
