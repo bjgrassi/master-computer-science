@@ -2,5 +2,5 @@
 
 - AR/VR
 - Cloud Computing
-- Human-Computer Interaction
+- Advanced Topics in Human-Computer Interaction (HCI folder)
 - Machine Learning
