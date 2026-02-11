@@ -1,3 +1,6 @@
 [submodule "25-Winter/CS/phishing-detection-extension"]
 	path = 25-Winter/CS/phishing-detection-extension
 	url = https://github.com/bjgrassi/phishing-detection-extension
+[submodule "25-Winter/SE/batch-pdf-flask"]
+	path = 25-Winter/SE/batch-pdf-flask
+	url = https://github.com/bjgrassi/batch-pdf-flask
