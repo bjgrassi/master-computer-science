@@ -1,0 +1,3 @@
+[submodule "25-Winter/CS/phishing-detection-extension"]
+	path = 25-Winter/CS/phishing-detection-extension
+	url = https://github.com/bjgrassi/phishing-detection-extension
